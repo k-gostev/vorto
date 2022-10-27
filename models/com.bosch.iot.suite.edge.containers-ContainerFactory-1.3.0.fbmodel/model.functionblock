@@ -1,6 +1,6 @@
 vortolang 1.0
 namespace com.bosch.iot.suite.edge.containers
-version 1.2.0
+version 1.3.0
 displayname "ContainerFactory"
 description "Provides the containers creation functionality"
 using com.bosch.iot.suite.edge.containers.Configuration ; 1.3.0

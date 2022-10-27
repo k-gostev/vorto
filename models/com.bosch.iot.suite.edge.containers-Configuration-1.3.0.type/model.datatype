@@ -16,7 +16,7 @@ using com.bosch.iot.suite.edge.containers.DecryptionConfiguration ; 1.0.0
 entity Configuration {
 	optional domainName as string "The container domain"
 
-	optional hostName as string "Host name for the container, if omitted the container_name with suffix -host will be set"
+	optional hostName as string "Host name for the container, if omitted the container name with suffix -host will be set"
 
 	optional multiple mountPoints as MountPoint "The container's mount points"
 

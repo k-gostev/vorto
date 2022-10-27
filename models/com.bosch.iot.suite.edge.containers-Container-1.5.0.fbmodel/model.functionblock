@@ -1,6 +1,6 @@
 vortolang 1.0
 namespace com.bosch.iot.suite.edge.containers
-version 1.4.0
+version 1.5.0
 displayname "Container"
 description "Provides lifecycle management functionalities per container and enhances container state changes traceability"
 using com.bosch.iot.suite.edge.containers.Configuration ; 1.3.0
